@@ -13,12 +13,8 @@ Original file is located at
 In this notebook you will train your first neural network. Feel free to look back at the Lecture-1 slides to complete the cells below.
 
 #### Install dependencies freeze by poetry
-"""
 
-!python3 -m pip install --upgrade pip
-!python3 -m pip install matplotlib numpy scikit-learn==0.23.2
-
-"""#### Import the different module we will need in this notebook 
+#### Import the different module we will need in this notebook 
 
 All the dependencies are installed. Below we import them and will be using them in all our notebooks.
 
